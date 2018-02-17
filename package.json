@@ -1,0 +1,27 @@
+{
+  "name": "eatdaburger",
+  "version": "1.0.0",
+  "description": "todolist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonwc5/EatDaBurger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandonwc5/EatDaBurger/issues"
+  },
+  "homepage": "https://github.com/brandonwc5/EatDaBurger#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "expresss": "0.0.0",
+    "handlebars": "^4.0.11",
+    "sequelize": "^4.33.4"
+  },
+  "devDependencies": {}
+}
